@@ -2,3 +2,9 @@
     color: red;
     font-weight: bold;
 }
+.student-contributor{
+    color: blue;
+    font-weight: bold;
+    font-size: 80px;
+    background-color: red;
+}
